@@ -1,4 +1,4 @@
-# Image Component Mixer
+# Image magnitude and phase Components Mixer
 
 Demonstrates the mixing of different images and their various components
 
